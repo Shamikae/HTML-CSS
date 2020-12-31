@@ -1,3 +1,9 @@
+h1{
+    color: white;
+    display: flex;
+    margin: 50px;
+    text-shadow: 2px 2px 9px rgb(153, 32, 223);
+}
 body{
     font-family: cursive;
     font-size: 1.2em;
@@ -25,7 +31,7 @@ body{
 
     width: 300px;
     height: 500px;
-    background: rgb(55, 59, 95);
+    background: rgba(55, 59, 95, .6);
     padding: 10px;
     border-radius: 30px;
     box-shadow: 10px 5px 5px black;
